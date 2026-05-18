@@ -1,110 +1,163 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    SUYASH GUPTA — README                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║           SUYASH GUPTA — GITHUB PROFILE README              ║
-  ║   Full animated version: open index.html in your browser    ║
-  ╚══════════════════════════════════════════════════════════════╝
-  
-  NOTE: GitHub strips <style> and <script> tags from READMEs.
-  For the FULL animated experience, use the index.html file.
-  The section below is GitHub-safe and will render properly.
--->
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=SUYASH%20GUPTA&fontSize=65&color=0:00fff0,50:0055ff,100:bf00ff&stroke=00fff0&strokeWidth=2&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%E2%80%A2%20Entrepreneur%20%E2%80%A2%20Builder&descSize=18&descAlignY=78&descAlign=50" width="100%"/>
 
-# ◈ SUYASH GUPTA
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&pause=1000&color=00FFF0&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%E2%9A%A1+Final+Year+CS+Student+%7C+Full+Stack+Dev;%F0%9F%9A%80+20%2C000%2B+LinkedIn+Followers;%F0%9F%8C%90+Web+Dev+%7C+Graphics+%7C+Entrepreneur;%F0%9F%92%BB+Building+the+Future%2C+One+Commit+at+a+Time" />
 
-**`Full Stack Developer · Entrepreneur · Builder`**
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-20K%2B_Followers-0088ff?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/isuyashgupta)
-[![Twitter](https://img.shields.io/badge/Twitter-@isuyashgupta-00fff0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/isuyashgupta)
-[![GitHub](https://img.shields.io/badge/GitHub-manuvrtti-bf00ff?style=flat-square&logo=github&logoColor=white)](https://github.com/manuvrtti)
-![Status](https://img.shields.io/badge/Status-Open_To_Work-00ff88?style=flat-square)
-![Year](https://img.shields.io/badge/◈_FINAL_YEAR-CS_Student-ffd700?style=flat-square)
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isuyashgupta)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/manuvrtti)
+[![Profile Views](https://komarev.com/ghpvc/?username=manuvrtti&style=for-the-badge&color=00fff0&labelColor=000000&label=VIEWS)](https://github.com/manuvrtti)
+[![Followers](https://img.shields.io/badge/LinkedIn-20%2C000%2B_Followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isuyashgupta)
 
 </div>
 
 ---
 
-```js
-const dev = {
-  name      : "Suyash Gupta",
-  status    : "Final Year CS Student 🎓",
-  focus     : ["Web Dev", "Graphics", "SaaS"],
-  linkedin  : 20_000 + " followers 🔥",
-  vibe      : "Entrepreneur with dev superpowers",
-  building  : "something legendary...",
-  available : true
-};
+<!-- ═══════════════════ WHOAMI ═══════════════════ -->
+
+## `◈ whoami`
+
+```json
+{
+  "name"       : "Suyash Gupta",
+  "status"     : "Final Year CS Student 🎓",
+  "focus"      : ["Web Dev", "Graphics", "SaaS"],
+  "linkedin"   : "20,000+ followers 🔥",
+  "vibe"       : "Entrepreneur with dev superpowers",
+  "building"   : "something legendary...",
+  "available"  : true
+}
 ```
 
 ---
 
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+
+## `◈ skills.json`
+
+<details open>
+<summary><b>☁️ Cloud & Hosting</b></summary>
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+
+</details>
+
+<details open>
+<summary><b>⚡ Languages</b></summary>
+<br/>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🚀 Frameworks & Libraries</b></summary>
+<br/>
+
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br/>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 Design & Tools</b></summary>
+<br/>
+
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+</details>
+
+---
+
+<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
+
+## `◈ ./stats --all`
+
 <div align="center">
 
-### ◈ TECH STACK
+<img src="https://github-readme-stats.vercel.app/api?username=manuvrtti&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&bg_color=0D0D0D&title_color=00fff0&text_color=c0caf5&icon_color=bf00ff&ring_color=00fff0&border_radius=10" width="49%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=manuvrtti&theme=tokyonight&hide_border=true&background=0D0D0D&ring=00fff0&fire=bf00ff&currStreakLabel=00fff0&sideLabels=c0caf5&dates=888888&border_radius=10" width="49%" />
 
-**☁ Cloud & Hosting**
+<br/><br/>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuvrtti&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0D0D0D&title_color=00fff0&text_color=c0caf5&border_radius=10" width="40%" />
+<img src="https://github-contributor-stats.vercel.app/api?username=manuvrtti&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=0D0D0D&title_color=00fff0&text_color=c0caf5&hide_border=true&border_radius=10" width="57%" />
 
-**⚡ Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**🚀 Frameworks**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-
-**🗄 Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**🎨 Design & Tools**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+</div>
 
 ---
 
-### ◈ MISSION STATS
+<!-- ═══════════════════ ACTIVITY GRAPH ═══════════════════ -->
 
-| 📊 Metric | 🔢 Value |
-|-----------|---------|
-| LinkedIn Followers | **20,000+** |
-| Status | **Open to Work** |
-| Commits | **∞ in progress** |
-| Building | **Something Legendary** |
+## `◈ git log --graph`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manuvrtti&show_icons=true&theme=radical&hide_border=true&bg_color=050a0f&title_color=00fff0&icon_color=bf00ff&text_color=a0d8ef)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=manuvrtti&theme=radical&hide_border=true&background=050a0f&stroke=00fff020&ring=00fff0&fire=bf00ff&currStreakLabel=00fff0&sideLabels=00fff060&currStreakNum=ffffff&sideNums=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manuvrtti&layout=compact&theme=radical&hide_border=true&bg_color=050a0f&title_color=00fff0&text_color=a0d8ef)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manuvrtti&bg_color=0D0D0D&color=00fff0&line=bf00ff&point=ffffff&area=true&hide_border=true&area_color=0055ff20&radius=10" width="100%"/>
 
 ---
 
-*⚡ POWERED BY **SelectIQ** ⚡*
+<!-- ═══════════════════ SNAKE ═══════════════════ -->
 
-`github.com/manuvrtti`
+## `◈ snake --eat-contributions`
+
+> **Setup:** Add the workflow below to generate the snake animation automatically.
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manuvrtti/manuvrtti/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manuvrtti/manuvrtti/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/manuvrtti/manuvrtti/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf00ff,50:0055ff,100:00fff0&height=100&section=footer" width="100%"/>
+
+<div align="center">
+
+**`⚡ Powered by caffeine · curiosity · chaos ⚡`**
+
+[![](https://visitcount.itsvg.in/api?id=manuvrtti&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
